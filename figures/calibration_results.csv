@@ -1,0 +1,3 @@
+,Brier,Log loss,ECE,Rata-rata P(default),ROC-AUC
+Sebelum kalibrasi,0.1792,0.5411,0.1964,0.4177,0.7789
+Sesudah kalibrasi,0.1347,0.4288,0.0143,0.2208,0.7801
